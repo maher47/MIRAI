@@ -13,11 +13,11 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "BOT",
-    "PREFIX": "🍃",
+    "PREFIX": ".",
     "ADMINBOT": [
         "100068519013340",
         "100068519013340",
-        ""
+        "100068519013340"
     ],
     "AppStateEncryption": true,
     "RestartEvery": "30",
