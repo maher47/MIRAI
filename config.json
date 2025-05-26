@@ -12,12 +12,12 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "BOT",
-    "PREFIX": ".",
+    "BOTNAME": "ميكو",
+    "PREFIX": "🍃",
     "ADMINBOT": [
-        "100094409873389",
-        "",
-        ""
+        "100068519013340",
+        "100068519013340",
+        "100068519013340"
     ],
     "AppStateEncryption": true,
     "RestartEvery": "30",
